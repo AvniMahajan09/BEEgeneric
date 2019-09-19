@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PAT Mobile App</string>
+    <string name="imp_links">Important<br> Links </br></string>
+
+    <string name="mydashboard">My Dashboard</string>
+
+
+    <string name="Title1">Join Webinar on Interactive session on Monitoring &amp;
+        Verification under PAT Cycle-II on Refinery Sector by BEE July 3, 2019 at 11:30 AM</string>
+    <string name="Description1"> Download app “gotowebinar” &amp;
+    sign in with webinar ID 607-844-195 or browse</string>
+    <string name="Link1"> <u>https://attendee.gotowebinar.com/register/405306774100533003</u> </string>
+
+    <string name="Title2">Join webinar on Interactive session on Monitoring &amp;
+        Verification under PAT Cycle-II on Railways Sector by BEE on July 4, 2019 at 2:30 PM</string>
+    <string name="Description2">Download app “gotowebinar” &amp;
+        sign in with webinar ID 932-067-579 or browse </string>
+    <string name="Link2"><u>https://attendee.gotowebinar.com/register/3824797832088594701</u></string>
+
+    <string name="Title3">Join webinar on Interactive session on Monitoring &amp;
+        Verification under PAT Cycle-II on DISCOM Sector by BEE on July 5, 2019 at 2:30 PM</string>
+    <string name="Description3"> Join webinar on Interactive session on Monitoring &amp;
+        Verification under PAT Cycle-II on DISCOM Sector by BEE on July 5, 2019 at 2:30 PM</string>
+    <string name="Link3"> <u>https://attendee.gotowebinar.com/register/5813206336805329933</u></string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
